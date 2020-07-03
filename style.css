@@ -7,6 +7,13 @@
 }
 
 
+
+li {
+    display: inline-block;
+    padding: 20px 20px 20px 20px;
+}
+
+
 table, tr, td, th {
     border: 1px solid;
     border-collapse: collapse;
